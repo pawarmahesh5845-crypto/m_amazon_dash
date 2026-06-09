@@ -71,4 +71,4 @@ Project Outcome
 
 This dashboard helps stakeholders monitor Amazon product sales performance, identify top-selling categories and products, track customer reviews, and make data-driven business decisions through interactive and insightful visual analytics.
 
-![Amazon Sales Dashboard](Screenshots/amazon-sales-dashboard.png)
+![Amazon Sales Dashboard](https://github.com/pawarmahesh5845-crypto/m_amazon_dash/blob/main/m_amazon_dash_sc.png)
